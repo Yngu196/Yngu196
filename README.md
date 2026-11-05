@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Yngu196/Yngu196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,mysql,qt,cs,git&theme=dark" />
+</p>
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yngu196&layout=compact&theme=tokyonight&hide_border=true" alt="Your Top Languages" />
+
+---
+
+## GitHub 统计
+
+  <img src="https://github-stats-extended.vercel.app/api?username=Yngu196&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
+
+
+
+## Featured Projects
+
+  <a href="https://github.com/Yngu196/TaskbarLyrics">
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Yngu196&repo=TaskbarLyrics&theme=tokyonight&hide_border=true" />
+  </a>
+<!-- Add your best repositories here -->
