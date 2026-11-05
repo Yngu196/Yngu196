@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,mysql,qt,cs,git&theme=dark" />
@@ -22,17 +22,9 @@ Here are some ideas to get you started:
 
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Yngu196&layout=compact&theme=tokyonight&hide_border=true" alt="Your Top Languages" />
 
----
-
-## GitHub 统计
+### GitHub 统计
 
   <img src="https://github-stats-extended.vercel.app/api?username=Yngu196&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
 
 
-
-## Featured Projects
-
-  <a href="https://github.com/Yngu196/TaskbarLyrics">
-    <img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=Yngu196&repo=TaskbarLyrics&theme=tokyonight&hide_border=true" />
-  </a>
 <!-- Add your best repositories here -->
